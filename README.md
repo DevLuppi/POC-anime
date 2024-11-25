@@ -1,7 +1,7 @@
-## POC-ANIME
+# POC-ANIME
 
-# Leonardo Luppi Vanni - RA: 10436603
-# Pedro Henrique Gonçalves - RA: 
+### Leonardo Luppi Vanni - RA: 10436603
+### Pedro Henrique Gonçalves - RA: 
 
 ## Tecnologias
 
